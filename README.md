@@ -1,7 +1,10 @@
-# MLM
+# Mathematics of Machine Learning (MLM)
 ---
-This repository contains the homeworks and documentation of the Mathematics of Machine Learning 2022 course, Universidad Nacional de Colombia, given by professor [Francisco Gómez](https://sites.google.com/site/fagomezj/).
 
-The main idea of this repo is store and document the homeworks made in the MML course, make it easaly to replicate and to apply the methods, and also learn about more Julia. 
+This repository contains the homeworks and documentation of the course Mathematics of Machine Learning 2022, at the National University of Colombia, dictated by Professor [Francisco Gómez](https://sites.google.com/site/fagomezj/).
 
-In this time, we are going to use [Julia](https://julialang.org/) programming language, since is friendly to write and very fast. To execute this repository you must have installed Julia and some of its libraries (chek the [Requirements.txt](https://github.com/saguileran/MLM/blob/main/Requirements.txt) file), and  Jupyter-Notebook or Jupyter Lab (Anaconda is recomended). Note: To see all the plots correclty you must have installed [PlotlyJS](https://plotly.com/julia/) library on Julia, and it must work correctly.
+The main idea of this repository is to store and document the assignments done in the MML course, in order to facilitate the replication and application of the methods, as well as to learn more about Julia. 
+
+In this occasion, we are going to use the programming language [Julia](https://julialang.org/), due to its ease of writing and speed. To run this repository you must have Julia and some of its libraries installed (check the [Requirements.txt](https://github.com/saguileran/MLM/blob/main/Requirements.txt) file), as well as Jupyter-Notebook or Jupyter Lab (Anaconda is recommended) to run the notebooks. 
+
+**Note**: To see all the graphics correctly you must have the [PlotlyJS](https://plotly.com/julia/) library installed in Julia, and it should work correctly.
