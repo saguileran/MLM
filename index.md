@@ -1,6 +1,9 @@
 # Mathematics of Machine Learning (MLM)
 ---
 
+
+asdasd 
+
 This repository contains the homeworks and documentation of the course Mathematics of Machine Learning 2022, at the National University of Colombia, dictated by Professor [Francisco Gómez](https://sites.google.com/site/fagomezj/).
 
 The main idea of this repository is to store and document the assignments done in the MML course, in order to facilitate the replication and application of the methods, as well as to learn more about Julia. 
