@@ -1,8 +1,4 @@
----
-layout: page
-title: Mathematics of Machine Learning (MML)
-tagline: MML
-description: Store and document the assignments done in the MML course at UNAL, Colombia
+# Mathematics of Machine Learning (MML)
 ---
 
 
