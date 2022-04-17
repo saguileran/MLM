@@ -1,4 +1,4 @@
-# Mathematics of Machine Learning (MLM)
+# Mathematics of Machine Learning (MML)
 ---
 
 <div style="text-align: justify">
